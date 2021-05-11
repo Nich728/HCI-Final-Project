@@ -4,4 +4,5 @@ using namespace std;
 int main(void) {
     cout << "HELLO" << '\n';
     cout << "TEST" << '\n';
+    cout << "TEST" << '\n';
 }
